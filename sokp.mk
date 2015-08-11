@@ -17,10 +17,10 @@
 $(call inherit-product, device/samsung/trltexx/full_trltexx.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/SOKP/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/sokp/config/nfc_enhanced.mk)
 
 # Inherit common SOKP phone.
-$(call inherit-product, vendor/SOKP/config/common_full_phone.mk)
+$(call inherit-product, vendor/sokp/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := trltexx
 PRODUCT_NAME := sokp_trltexx
