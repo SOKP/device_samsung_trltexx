@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "device_samsung_trlte-common",
+    "target_path": "device/samsung/trlte-common",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "device_qcom_common",
+    "target_path": "device/qcom/common",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "kernel_samsung_trlte",
+    "target_path": "kernel/samsung/trlte",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository":  "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "sokp-l5.1"
+  }
+]
